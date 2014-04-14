@@ -1,0 +1,16 @@
+C:\Documents and Settings\All Users\Documenti\CALCOLO\WPScraping\WPScraping\bin\Debug\WPScraping.exe
+C:\Documents and Settings\All Users\Documenti\CALCOLO\WPScraping\WPScraping\bin\Debug\WPScraping.pdb
+C:\Documents and Settings\All Users\Documenti\CALCOLO\WPScraping\WPScraping\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Documents and Settings\All Users\Documenti\CALCOLO\WPScraping\WPScraping\bin\Debug\HtmlAgilityPack.dll
+C:\Documents and Settings\All Users\Documenti\CALCOLO\WPScraping\WPScraping\bin\Debug\Fizzler.dll
+C:\Documents and Settings\All Users\Documenti\CALCOLO\WPScraping\WPScraping\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documenti\CALCOLO\WPScraping\WPScraping\obj\x86\Debug\WPScraping.exe
+C:\Documents and Settings\All Users\Documenti\CALCOLO\WPScraping\WPScraping\obj\x86\Debug\WPScraping.pdb
+C:\Users\UTENTE\Desktop\WPScraping\WPScraping\obj\x86\Debug\WPScraping.exe
+C:\Users\UTENTE\Desktop\WPScraping\WPScraping\obj\x86\Debug\WPScraping.pdb
+C:\Users\UTENTE\Desktop\WPScraping\WPScraping\bin\Debug\WPScraping.exe
+C:\Users\UTENTE\Desktop\WPScraping\WPScraping\bin\Debug\WPScraping.pdb
+C:\Users\UTENTE\Desktop\WPScraping\WPScraping\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\UTENTE\Desktop\WPScraping\WPScraping\bin\Debug\HtmlAgilityPack.dll
+C:\Users\UTENTE\Desktop\WPScraping\WPScraping\bin\Debug\Fizzler.dll
+C:\Users\UTENTE\Desktop\WPScraping\WPScraping\obj\x86\Debug\WPScraping.csprojResolveAssemblyReference.cache

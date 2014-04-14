@@ -1,0 +1,7 @@
+C:\Users\UTENTE\Desktop\WPScraping\WPScraping\bin\Release\WPScraping.exe
+C:\Users\UTENTE\Desktop\WPScraping\WPScraping\bin\Release\WPScraping.pdb
+C:\Users\UTENTE\Desktop\WPScraping\WPScraping\bin\Release\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\UTENTE\Desktop\WPScraping\WPScraping\bin\Release\HtmlAgilityPack.dll
+C:\Users\UTENTE\Desktop\WPScraping\WPScraping\bin\Release\Fizzler.dll
+C:\Users\UTENTE\Desktop\WPScraping\WPScraping\obj\x86\Release\WPScraping.exe
+C:\Users\UTENTE\Desktop\WPScraping\WPScraping\obj\x86\Release\WPScraping.pdb
